@@ -4,6 +4,9 @@
 # Define the DocPad Configuration
 docpadConfig = {
 	# ...
+	plugins:
+			cleanurls:
+				static: true
 }
 
 # Export the DocPad Configuration
