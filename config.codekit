@@ -3904,6 +3904,15 @@
 		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
+	"\/out\/css\/styles.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/out\/css\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/out\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -3934,13 +3943,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/src\/layouts\/partials\/navbar.html.jade": {
+	"\/src\/layouts\/partials\/navbar.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/layouts\/partials\/navbar.html.jade",
-		"outputAbbreviatedPath": "\/src\/layouts\/partials\/navbar.html.html",
+		"inputAbbreviatedPath": "\/src\/layouts\/partials\/navbar.jade",
+		"outputAbbreviatedPath": "\/src\/layouts\/partials\/navbar.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/src\/layouts\/partials\/player.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/layouts\/partials\/player.jade",
+		"outputAbbreviatedPath": "\/src\/layouts\/partials\/player.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
