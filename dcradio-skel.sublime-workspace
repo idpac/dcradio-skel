@@ -4,10 +4,6 @@
 		"selected_items":
 		[
 			[
-				"i",
-				"i"
-			],
-			[
 				"fon",
 				"font-variant"
 			],
@@ -28,42 +24,50 @@
 	"buffers":
 	[
 		{
-			"file": "/Applications/i-need-a-config/docs/demo/conf/httpd-app.conf",
+			"file": "src/layouts/partials/programacion.jade",
 			"settings":
 			{
-				"buffer_size": 272,
+				"buffer_size": 881,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Applications/i-need-a-config/apache2/htdocs/administrator/index.php",
+			"file": "src/files/javascript/dropdown.js",
 			"settings":
 			{
-				"buffer_size": 1565,
+				"buffer_size": 1304,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Applications/i-need-a-config/docs/demo/conf/httpd-prefix.conf",
+			"file": "src/files/javascript/dropdown-trigger.js",
 			"settings":
 			{
-				"buffer_size": 196,
+				"buffer_size": 95,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Applications/i-need-a-config/docs/demo/conf/httpd-vhosts.conf",
+			"file": "src/layouts/partials/head.jade",
 			"settings":
 			{
-				"buffer_size": 294,
+				"buffer_size": 180,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Applications/i-need-a-config/docs/demo/htdocs/index.php",
+			"file": "src/layouts/partials/navbar.jade",
 			"settings":
 			{
-				"buffer_size": 84,
+				"buffer_size": 217,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "out/index.html",
+			"settings":
+			{
+				"buffer_size": 2151,
 				"line_ending": "Unix"
 			}
 		}
@@ -71,9 +75,17 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 287.0,
 		"selected_items":
 		[
+			[
+				"mdp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
 			[
 				"ss",
 				"Set Syntax: Jade"
@@ -81,10 +93,6 @@
 			[
 				"beauti",
 				"HTMLBeautify"
-			],
-			[
-				"pci",
-				"Package Control: Install Package"
 			],
 			[
 				"bautif",
@@ -127,7 +135,7 @@
 				"Set Syntax: HTML (ECO)"
 			]
 		],
-		"width": 444.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -148,39 +156,52 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/BlueChili/Development/microsite/bower_components",
-		"/Users/BlueChili/Development/microsite/src",
-		"/Users/BlueChili/Development/microsite/src/documents",
-		"/Users/BlueChili/Development/microsite/src/layouts",
-		"/Users/BlueChili/Development/microsite/src/partials",
-		"/Users/BlueChili/Development/microsite/src/static",
-		"/Users/BlueChili/Development/microsite/src/static/css"
+		"/Users/german/git/dcradio-skel",
+		"/Users/german/git/dcradio-skel/out",
+		"/Users/german/git/dcradio-skel/out/fonts",
+		"/Users/german/git/dcradio-skel/out/javascript",
+		"/Users/german/git/dcradio-skel/src",
+		"/Users/german/git/dcradio-skel/src/files",
+		"/Users/german/git/dcradio-skel/src/files/css",
+		"/Users/german/git/dcradio-skel/src/files/fonts",
+		"/Users/german/git/dcradio-skel/src/files/javascript",
+		"/Users/german/git/dcradio-skel/src/layouts",
+		"/Users/german/git/dcradio-skel/src/layouts/partials",
+		"/Users/german/git/dcradio-skel/src/render"
 	],
 	"file_history":
 	[
-		"/Users/BlueChili/Development/microsite/src/partials/feet.html",
-		"/Users/BlueChili/Development/microsite/src/static/css/semantic.min.css",
-		"/Users/BlueChili/Development/microsite/src/partials/head.html.jade",
-		"/Users/BlueChili/Development/microsite/src/documents/index.html.md",
-		"/Users/BlueChili/Development/microsite/src/layouts/default.html.eco",
+		"/Users/german/git/dcradio-skel/out/lunes.html",
+		"/Users/german/git/dcradio-skel/src/render/index.html.jade",
+		"/Users/german/git/dcradio-skel/src/layouts/partials/header.jade",
+		"/Users/german/git/dcradio-skel/src/render/martes.html.jade",
+		"/Users/german/git/dcradio-skel/src/render/lunes.html.jade",
+		"/Users/german/git/dcradio-skel/node_modules/docpad/node_modules/yamljs/node_modules/glob/test/pause-resume.js",
+		"/Users/german/git/dcradio-skel/src/layouts/partials/player.jade",
+		"/Users/german/git/dcradio-skel/src/layouts/partials/programacion.jade",
+		"/Users/german/git/dcradio-skel/docpad.coffee",
+		"/Users/german/git/dcradio-skel/src/layouts/partials/navbar.jade",
+		"/Users/german/git/dcradio-skel/out/javascript/jquery.js",
+		"/Users/german/git/dcradio-skel/src/files/javascript/dropdown.js",
+		"/Users/german/git/dcradio-skel/out/index.html",
+		"/Users/german/git/dcradio-skel/bower_components/Semantic-UI/src/theme.config.example",
+		"/Users/german/git/dcradio-skel/README.md",
+		"/Users/german/git/dcradio-skel/node_modules/docpad/out/lib/plugin-loader.js",
+		"/Users/german/git/dcradio-skel/package.json",
+		"/Users/german/git/dcradio-skel/.gitignore",
+		"/Users/german/git/dcradio-skel/node_modules/docpad/node_modules/yamljs/node_modules/jasmine-node/node_modules/walkdir/test/comparison/install_test_deps.sh",
+		"/Users/german/git/dcradio-skel/out/fonts/icons.otf",
+		"/Users/german/git/foro_politica_publica_de_com_comunitaria/src/layouts/default.html.eco",
+		"/Users/german/git/foro_politica_publica_de_com_comunitaria/src/documents/index.html.md",
+		"/Users/german/git/foro_politica_publica_de_com_comunitaria/src/partials/head.html.jade",
+		"/Users/german/git/foro_politica_publica_de_com_comunitaria/src/partials/header.html.jade",
+		"/Users/german/git/foro_politica_publica_de_com_comunitaria/out/index.html",
 		"/Users/BlueChili/Development/microsite/src/partials/header.html.jade",
-		"/Users/BlueChili/Development/microsite/out/css/semantic.min.css",
-		"/Users/BlueChili/Development/javascripting/for-loop.js",
-		"/Users/BlueChili/Development/javascripting/arrays.js",
-		"/Users/BlueChili/Development/javascripting/array-filtering.js",
-		"/Users/BlueChili/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/BlueChili/Development/javascripting/if-statement.js",
-		"/Users/BlueChili/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/Users/BlueChili/Development/javascripting/rounding-numbers.js",
-		"/Users/BlueChili/Development/javascripting/number-to-string.js",
-		"/Users/BlueChili/Development/javascripting/introduction.js",
-		"/Users/BlueChili/Development/javascripting/numbers.js",
-		"/Users/BlueChili/Development/javascripting/revising-strings.js",
-		"/Users/BlueChili/Development/javascripting/variables.js",
-		"/Users/BlueChili/Development/javascripting/strings.js",
-		"/Users/BlueChili/Development/javascripting/string-length.js",
-		"/Users/BlueChili/Development/microsite/out/index.html",
+		"/Users/BlueChili/Development/microsite/src/static/css/semantic.min.css",
 		"/Users/BlueChili/Development/microsite/local/styles.less",
+		"/Users/BlueChili/Development/microsite/src/partials/feet.html",
+		"/Users/BlueChili/Development/microsite/out/index.html",
+		"/Users/BlueChili/Development/microsite/src/partials/head.html.jade",
 		"/Users/BlueChili/Development/microsite/bower_components/Semantic-UI/build/less/collections/breadcrumb.less",
 		"/Users/BlueChili/Development/microsite/node_modules/docpad/node_modules/yamljs/node_modules/glob/node_modules/minimatch/test/brace-expand.js",
 		"/Users/BlueChili/Development/microsite/bower_components/Semantic-UI/server/files/javascript/library/easing.js",
@@ -192,6 +213,7 @@
 		"/Users/BlueChili/Development/microsite/node_modules/docpad/node_modules/express/node_modules/connect/lib/middleware/basicAuth.js",
 		"/Users/BlueChili/Development/microsite/node_modules/docpad/node_modules/bal-util/out/lib/balutil.js",
 		"/Users/BlueChili/Development/microsite/package.json",
+		"/Users/BlueChili/Development/microsite/src/documents/index.html.md",
 		"/Users/BlueChili/Desktop/index.html",
 		"/Users/BlueChili/Development/microsite/src/partials/feet.html.eco",
 		"/Users/BlueChili/Development/microsite/src/partials/head.eco",
@@ -204,6 +226,7 @@
 		"/Users/BlueChili/Development/microsite/bower_components/Semantic-UI/build/packaged/css/semantic.min.css",
 		"/Users/BlueChili/Development/microsite/src/render/index.html.md",
 		"/Users/BlueChili/Development/microsite/src/render/test.md",
+		"/Users/BlueChili/Development/microsite/src/layouts/default.html.eco",
 		"/Users/BlueChili/Development/microsite/src/documents/index.html",
 		"/Users/BlueChili/Library/Mobile Documents/com~apple~CloudDocs/microsite.sublime-project",
 		"/Users/BlueChili/Development/microsite/docpad.coffee",
@@ -235,6 +258,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"teal",
+			"Development"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -252,16 +277,45 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Applications/i-need-a-config/docs/demo/conf/httpd-app.conf",
+					"file": "src/layouts/partials/programacion.jade",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 272,
+						"buffer_size": 881,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								484,
+								484
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/files/javascript/dropdown.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1304,
 						"regions":
 						{
 						},
@@ -269,12 +323,14 @@
 						[
 							[
 								0,
-								0
+								1304
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -284,68 +340,40 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "/Applications/i-need-a-config/apache2/htdocs/administrator/index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1565,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 166.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
 					"buffer": 2,
-					"file": "/Applications/i-need-a-config/docs/demo/conf/httpd-prefix.conf",
+					"file": "src/files/javascript/dropdown-trigger.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 196,
+						"buffer_size": 95,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								95,
+								95
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "/Applications/i-need-a-config/docs/demo/conf/httpd-vhosts.conf",
+					"file": "src/layouts/partials/head.jade",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 294,
+						"buffer_size": 180,
 						"regions":
 						{
 						},
@@ -358,7 +386,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"auto_name": "",
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -369,30 +398,60 @@
 				},
 				{
 					"buffer": 4,
-					"file": "/Applications/i-need-a-config/docs/demo/htdocs/index.php",
+					"file": "src/layouts/partials/navbar.jade",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 84,
+						"buffer_size": 217,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								153,
+								153
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "out/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								799,
+								799
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -400,7 +459,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 0.0
 	},
 	"input":
 	{
@@ -440,7 +499,7 @@
 	"project": "dcradio-skel.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 0.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -449,40 +508,20 @@
 		"selected_items":
 		[
 			[
-				"hea",
-				"src/partials/head.html.jade"
+				"nav",
+				"src/layouts/partials/navbar.jade"
 			],
 			[
-				"for",
-				"for-loop.js"
+				"pro",
+				"src/layouts/partials/programacion.jade"
 			],
 			[
-				"lo",
-				"looping-through-arrays.js"
+				"pla",
+				"src/layouts/partials/player.jade"
 			],
 			[
-				"arra",
-				"array-filtering.js"
-			],
-			[
-				"fl",
-				"for-loop.js"
-			],
-			[
-				"if",
-				"if-statement.js"
-			],
-			[
-				"nts",
-				"number-to-string.js"
-			],
-			[
-				"num",
-				"number-to-string.js"
-			],
-			[
-				"roun",
-				"rounding-numbers.js"
+				"idne",
+				"src/render/index.html.jade"
 			],
 			[
 				"inde",

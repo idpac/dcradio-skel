@@ -1,0 +1,1 @@
+(function(){var i;i={plugins:{cleanurls:{"static":!0}},outPath:"../BlueChili.github.io"},module.exports=i}).call(this);

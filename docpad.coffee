@@ -7,6 +7,7 @@ docpadConfig = {
 	plugins:
 			cleanurls:
 				static: true
+	outPath: '../BlueChili.github.io'
 }
 
 # Export the DocPad Configuration

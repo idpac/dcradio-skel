@@ -3904,6 +3904,17 @@
 		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
+	"\/docpad.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/docpad.js",
+		"outputAbbreviatedPath": "\/min\/docpad-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/out\/css\/styles.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -3913,14 +3924,27 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/out\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
+	"\/out\/javascript\/dropdown.js": {
+		"fileType": 64,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/out\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/out\/javascript\/dropdown.js",
+		"outputAbbreviatedPath": "\/out\/javascript\/min\/dropdown-min.js",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/out\/javascript\/jquery.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/out\/javascript\/jquery.js",
+		"outputAbbreviatedPath": "\/out\/javascript\/min\/jquery-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/out\/javascript\/semantic.js": {
 		"fileType": 64,
@@ -3963,6 +3987,39 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/src\/files\/javascript\/dropdown-trigger.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/files\/javascript\/dropdown-trigger.js",
+		"outputAbbreviatedPath": "\/src\/files\/javascript\/min\/dropdown-trigger-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/files\/javascript\/dropdown.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/files\/javascript\/dropdown.js",
+		"outputAbbreviatedPath": "\/src\/files\/javascript\/min\/dropdown-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/src\/files\/javascript\/jquery.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/files\/javascript\/jquery.js",
+		"outputAbbreviatedPath": "\/src\/files\/javascript\/min\/jquery-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/src\/files\/javascript\/semantic.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -3973,6 +4030,28 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/src\/layouts\/partials\/head.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/layouts\/partials\/head.jade",
+		"outputAbbreviatedPath": "\/src\/layouts\/partials\/head.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/src\/layouts\/partials\/header.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/layouts\/partials\/header.jade",
+		"outputAbbreviatedPath": "\/src\/layouts\/partials\/header.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
 	"\/src\/layouts\/partials\/navbar.jade": {
 		"compileDebug": 1,
@@ -4010,12 +4089,34 @@
 	"\/src\/render\/index.html.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
+		"ignore": 0,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/src\/render\/index.html.jade",
-		"outputAbbreviatedPath": "\/src\/render\/index.html.html",
+		"outputAbbreviatedPath": "\/out\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 0
+		},
+	"\/src\/render\/lunes.html.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/src\/render\/lunes.html.jade",
+		"outputAbbreviatedPath": "\/out\/lunes.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 0
+		},
+	"\/src\/render\/martes.html.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/src\/render\/martes.html.jade",
+		"outputAbbreviatedPath": "\/out\/martes.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		}
 	},
