@@ -4074,6 +4074,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/src\/files\/pics\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7878,
+		"inputAbbreviatedPath": "\/src\/files\/pics\/logo.png",
+		"outputAbbreviatedPath": "\/src\/files\/pics\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/src\/layouts\/partials\/head.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -4125,6 +4136,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/layouts\/partials\/programacion.jade",
 		"outputAbbreviatedPath": "\/src\/layouts\/partials\/programacion.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/src\/layouts\/program.html.eco.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/layouts\/program.html.eco.jade",
+		"outputAbbreviatedPath": "\/src\/layouts\/program.html.eco.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
@@ -4216,6 +4238,22 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/src\/render\/styles\/styles.css.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/src\/render\/styles\/styles.css.styl",
+		"outputAbbreviatedPath": "\/src\/render\/css\/styles.css.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
 		},
 	"\/src\/render\/viernes.html.jade": {
 		"compileDebug": 1,
